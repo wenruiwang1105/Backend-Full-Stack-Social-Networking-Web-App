@@ -33,6 +33,7 @@ Backend URL:
 ```bash
 npm install
 node index.js
+```
 
 
 The server runs on:
