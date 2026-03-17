@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+<testsuite name="Headline and auth" errors="0" tests="5" failures="0" time="0.308" timestamp="2025-11-18T18:10:31">
+  <testcase classname="Headline and auth" name="Unit test to validate POST /register" time="0.058"></testcase>
+  <testcase classname="Headline and auth" name="Unit test to validate POST /login" time="0.061"></testcase>
+  <testcase classname="Headline and auth" name="Unit test to validate PUT /headline" time="0.116"></testcase>
+  <testcase classname="Headline and auth" name="Unit test to validate GET /headline" time="0.06"></testcase>
+  <testcase classname="Headline and auth" name="Unit test to validate PUT /logout" time="0.012"></testcase>
+</testsuite>
+</testsuites>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+<testsuite name="For Articles" errors="0" tests="5" failures="0" time="0.456" timestamp="2025-11-18T18:10:31">
+  <testcase classname="For Articles" name="register" time="0.121"></testcase>
+  <testcase classname="For Articles" name="login" time="0.069"></testcase>
+  <testcase classname="For Articles" name="Unit test to validate GET /articles" time="0.094"></testcase>
+  <testcase classname="For Articles" name="Unit test to validate POST /article" time="0.121"></testcase>
+  <testcase classname="For Articles" name="Unit test to validate GET /articles/:id" time="0.051"></testcase>
+</testsuite>
+</testsuites>
