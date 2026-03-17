@@ -1,4 +1,3 @@
-````md
 # Full-Stack Web App Backend
 
 Backend service for a social networking web application built with **Node.js**, **Express**, and **MongoDB**.  
@@ -34,7 +33,7 @@ Backend URL:
 ```bash
 npm install
 node index.js
-````
+
 
 The server runs on:
 
